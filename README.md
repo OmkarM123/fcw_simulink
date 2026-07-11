@@ -67,3 +67,13 @@ The dataset included in this repository was created for project demonstration an
 ## Authors
 
 Developed as part of the **KPIT Apex Lab Internship**.
+
+### Team Members
+
+- Omkar Meher
+- Swapnil Kumbhar
+- Prathmesh Lokhande
+
+### Mentor
+
+- Shubhada Mane
